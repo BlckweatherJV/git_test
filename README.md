@@ -1,4 +1,5 @@
 # git_test
 OdinProject
-Hello Odin!
-
+git status
+new line
+Hello Odin, again!
