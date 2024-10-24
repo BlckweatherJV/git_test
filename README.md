@@ -16,4 +16,5 @@ new line
 - [ ] Create a Table
   - [ ] 3 Rows x 3 Columns
   - [ ] place an image in each cell of the table
+
         > Hint, cell = <td>
