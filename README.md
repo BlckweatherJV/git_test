@@ -9,7 +9,7 @@ new line
 
 ## Learning Tasks
 
-- [ ] ![https://getbootstrap.com/docs]Bootstrap
+- [ ] [Bootstrap](https://getbootstrap.com/docs)
   - [ ] Add Bootstrap to to your html file
   - [ ] create an Ordered List of Images
   - [ ] create an Ordered List of Links to Other sites
