@@ -10,7 +10,7 @@ new line
 ## Learning Tasks
 
 - [ ] [Bootstrap](https://getbootstrap.com/docs)
-  - [ ] Add Bootstrap to to your html file
+  - [x] Add Bootstrap to to your html file
   - [ ] create an Ordered List of Images
   - [ ] create an Ordered List of Links to Other sites
 - [ ] Create a Table
