@@ -13,8 +13,8 @@ new line
   - [x] Add Bootstrap to to your html file
   - [x] create an Ordered List of Images
   - [x] create an Ordered List of Links to Other sites
-- [ ] Create a Table
-  - [ ] 3 Rows x 3 Columns
+- [x] Create a Table
+  - [x] 3 Rows x 3 Columns
   - [ ] place an image in each cell of the table
 
         > Hint, cell = <td>
