@@ -15,6 +15,6 @@ new line
   - [x] create an Ordered List of Links to Other sites
 - [x] Create a Table
   - [x] 3 Rows x 3 Columns
-  - [ ] place an image in each cell of the table
+  - [x] place an image in each cell of the table
 
         > Hint, cell = <td>
